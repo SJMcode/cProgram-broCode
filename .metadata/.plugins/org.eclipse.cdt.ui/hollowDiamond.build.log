@@ -1,0 +1,7 @@
+01:07:36 **** Rebuild of configuration Debug for project hollowDiamond ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\hollowDiamond.o" "..\\src\\hollowDiamond.c" 
+gcc -o hollowDiamond.exe "src\\hollowDiamond.o" 
+
+01:07:37 Build Finished. 0 errors, 0 warnings. (took 448ms)
+

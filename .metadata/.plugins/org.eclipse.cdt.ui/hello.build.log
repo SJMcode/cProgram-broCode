@@ -1,0 +1,9 @@
+20:12:35 **** Build of configuration Debug for project hello ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jdk-17/bin/server;C:/Program Files/Java/jdk-17/bin;C:/Users/safir/AppData/Local/Temp/eoiA5C9.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_17.0.6.v20230204-1729/jre/bin/server;C:/Users/safir/AppData/Local/Temp/eoiA5C9.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_17.0.6.v20230204-1729/jre/bin;C:\Program Files\Google\Chrome\Application;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\openJDK11\jdk-11.0.2\bin;C:\Program Files\nodejs\;C:\Users\safir\AppData\Roaming\npm;C:\Program Files\nodejs\;C:\Program Files\Git\bin\;C:\Program Files\Git\cmd\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\HashiCorp\Vagrant\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\mingw32\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\safir\AppData\Local\Microsoft\WindowsApps;C:\Users\safir\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\bin;C:\Users\safir\AppData\Roaming\npm;C:\Program Files\JetBrains\PhpStorm 2022.1.4\bin;C:\Users\safir\AppData\Local\gitkraken\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;C:\Users\safir\Downloads;;C:\Users\safir\Downloads]
+
+20:12:36 Build Failed. 1 errors, 0 warnings. (took 139ms)
+

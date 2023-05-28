@@ -1,0 +1,7 @@
+13:20:14 **** Rebuild of configuration Debug for project invertedTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\invertedTriangle.o" "..\\src\\invertedTriangle.c" 
+gcc -o invertedTriangle.exe "src\\invertedTriangle.o" 
+
+13:20:15 Build Finished. 0 errors, 0 warnings. (took 384ms)
+

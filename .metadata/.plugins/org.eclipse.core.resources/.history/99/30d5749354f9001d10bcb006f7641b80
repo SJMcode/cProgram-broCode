@@ -1,0 +1,60 @@
+/*
+ ============================================================================
+ Name        : ArrayFunction_get_disp_fum.c
+ Author      : safir
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void getArray(int limit, int arr1[50][50]);
+void displayArray(int limit, int arr1[50][50]);
+
+int main(void) {
+
+	int limit,arr[50][50];
+		setbuf(stdout, NULL);
+		printf("Enter the size of array ");
+		scanf("%d", &limit);
+
+		getArray(limit,arr);
+		displayArray(limit, arr);
+
+		return EXIT_SUCCESS;
+
+}
+
+	void getArray(int limit,int  arr1[50][50]){
+		printf("Enter the array values  \n");
+				for (int i = 0; i <limit; i++) {
+					for (int j = 0; j <limit; j++) {
+
+					scanf("%d", &arr1[i][j]);
+					}
+				}
+	}
+
+	void displayArray(int limit, int arr[50][50]){
+
+		printf("Array elements are:\n");
+				for (int i = 0; i <limit; i++) {
+					for (int j = 0; j <limit; j++) {
+
+					printf("%d\t", arr[i][j]);
+					}
+					printf("\n");
+				}
+
+	}
+
+
+
+
+
+
+
+

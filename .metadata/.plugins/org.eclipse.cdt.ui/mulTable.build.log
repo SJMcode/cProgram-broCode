@@ -1,0 +1,5 @@
+16:11:09 **** Clean-only build of configuration Debug for project mulTable ****
+rm -rf src/mulTable.d mulTable.exe src/mulTable.o 
+
+16:11:09 Build Finished. 0 errors, 0 warnings. (took 214ms)
+

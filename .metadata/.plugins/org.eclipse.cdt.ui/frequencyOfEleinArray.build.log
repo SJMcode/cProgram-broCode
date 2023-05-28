@@ -1,0 +1,5 @@
+16:11:08 **** Clean-only build of configuration Debug for project frequencyOfEleinArray ****
+rm -rf frequencyOfEleinArray.exe src/frequencyOfEleinArray.o src/frequencyOfEleinArray.d 
+
+16:11:08 Build Finished. 0 errors, 0 warnings. (took 223ms)
+

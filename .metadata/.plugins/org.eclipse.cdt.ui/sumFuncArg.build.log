@@ -1,0 +1,6 @@
+04:09:11 **** Incremental Build of configuration Debug for project sumFuncArg ****
+Info: Internal Builder is used for build
+gcc -o sumFuncArg.exe "src\\sumFuncArg.o" 
+
+04:09:11 Build Finished. 0 errors, 0 warnings. (took 212ms)
+

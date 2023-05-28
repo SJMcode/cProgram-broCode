@@ -1,0 +1,7 @@
+14:22:59 **** Rebuild of configuration Debug for project copyArrayElmnts ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\copyArrayElmnts.o" "..\\src\\copyArrayElmnts.c" 
+gcc -o copyArrayElmnts.exe "src\\copyArrayElmnts.o" 
+
+14:22:59 Build Finished. 0 errors, 0 warnings. (took 650ms)
+

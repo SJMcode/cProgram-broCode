@@ -1,0 +1,5 @@
+16:11:11 **** Clean-only build of configuration Debug for project reverseArray ****
+rm -rf src/reverseArray.o src/reverseArray.d reverseArray.exe 
+
+16:11:11 Build Finished. 0 errors, 0 warnings. (took 157ms)
+

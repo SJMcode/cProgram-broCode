@@ -1,0 +1,7 @@
+22:04:24 **** Incremental Build of configuration Debug for project switch ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch.o" "..\\src\\switch.c" 
+gcc -o switch.exe "src\\switch.o" 
+
+22:04:24 Build Finished. 0 errors, 0 warnings. (took 516ms)
+

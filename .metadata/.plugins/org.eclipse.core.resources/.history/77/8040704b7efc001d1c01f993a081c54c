@@ -1,0 +1,47 @@
+/*
+ ============================================================================
+ Name        : findLargestandFibonacci.c
+ Author      : safir
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int findlargest(int a, int n, int largest);
+
+int main(void) {
+int i,largest, a[10], n,c;
+setbuf(stdout, NULL);
+printf("Enter array size");
+scanf("%d", &n);
+
+printf("Enter array: ");
+
+	for(i=0; i<n; i++){
+		scanf("%d", &a[i]);
+	}
+	largest = a[0];
+	n = sizeof(a)/ sizeof(a[0]);
+c =findlargest(int a, n, largest);
+
+
+	return EXIT_SUCCESS;
+}
+
+
+int findlargest(int a, n, largest){
+
+
+		for(int i=0; i<n; i++){
+
+			if(a[i]> largest)
+				largest = a[i];
+		}
+		printf("largest: %d ", largest);
+
+		return largest;
+		}

@@ -1,0 +1,5 @@
+16:11:09 **** Clean-only build of configuration Debug for project pascalTriangle ****
+rm -rf pascalTriangle.exe src/pascalTriangle.d src/pascalTriangle.o 
+
+16:11:09 Build Finished. 0 errors, 0 warnings. (took 177ms)
+

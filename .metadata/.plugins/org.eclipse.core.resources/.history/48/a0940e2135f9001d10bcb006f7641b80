@@ -1,0 +1,23 @@
+/*
+ ============================================================================
+ Name        : palindromeString.c
+ Author      : safir
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+	char str[] = {'M','A', 'L', 'A', 'Y', 'A', 'L', 'A', 'M'};
+	int i;
+	printf("Enter the string: ");
+	scan
+	for(i=0; i<; i++){}
+
+	return EXIT_SUCCESS;
+}

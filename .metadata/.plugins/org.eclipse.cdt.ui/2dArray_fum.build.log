@@ -1,0 +1,5 @@
+16:11:03 **** Clean-only build of configuration Debug for project 2dArray_fum ****
+rm -rf src/2dArray_fum.o 2dArray_fum.exe src/2dArray_fum.d 
+
+16:11:03 Build Finished. 0 errors, 0 warnings. (took 156ms)
+

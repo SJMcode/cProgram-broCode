@@ -1,0 +1,33 @@
+/*
+ ============================================================================
+ Name        : findLargestInArray.c
+ Author      : safir
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+	int i,max,n, a[10];
+	setbuf(stdout, NULL);
+
+	printf("Enter array elements: ");
+	for(i=0; i<n-1; i++){
+		scanf("%d", &a[i]);
+	}
+	n=sizeof(a)/sizeof(a[0]);
+	printf("size of Array: %d", n);
+	for(i=0; i<n-1; i++){
+		if(max<a[i])
+			max=a[i];
+
+	}
+	printf("largest element in Array: %d", max);
+
+	return EXIT_SUCCESS;
+}

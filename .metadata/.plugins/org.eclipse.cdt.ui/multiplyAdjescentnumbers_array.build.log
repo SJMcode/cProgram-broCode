@@ -1,0 +1,5 @@
+16:11:09 **** Clean-only build of configuration Debug for project multiplyAdjescentnumbers_array ****
+rm -rf src/multiplyAdjescentnumbers_array.o multiplyAdjescentnumbers_array.exe src/multiplyAdjescentnumbers_array.d 
+
+16:11:09 Build Finished. 0 errors, 0 warnings. (took 177ms)
+

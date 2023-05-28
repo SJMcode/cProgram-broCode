@@ -1,0 +1,14 @@
+10:28:22 **** Incremental Build of configuration Debug for project checkIfArraySorted ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\checkIfArraySorted.o" "..\\src\\checkIfArraySorted.c" 
+..\src\checkIfArraySorted.c: In function 'main':
+..\src\checkIfArraySorted.c:28:4: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+    if(a[i] < a[i-1])
+    ^~
+..\src\checkIfArraySorted.c:30:5: note: ...this statement, but the latter is misleadingly indented as if it is guarded by the 'if'
+     break;
+     ^~~~~
+gcc -o checkIfArraySorted.exe "src\\checkIfArraySorted.o" 
+
+10:28:23 Build Finished. 0 errors, 1 warnings. (took 360ms)
+

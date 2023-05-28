@@ -1,0 +1,5 @@
+16:11:07 **** Clean-only build of configuration Debug for project deletePrimeNumbers ****
+rm -rf src/deletePrimeNumbers.o src/deletePrimeNumbers.d deletePrimeNumbers.exe 
+
+16:11:08 Build Finished. 0 errors, 0 warnings. (took 287ms)
+

@@ -1,0 +1,7 @@
+01:07:36 **** Rebuild of configuration Debug for project downArrowPattern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\downArrowPattern.o" "..\\src\\downArrowPattern.c" 
+gcc -o downArrowPattern.exe "src\\downArrowPattern.o" 
+
+01:07:36 Build Finished. 0 errors, 0 warnings. (took 496ms)
+

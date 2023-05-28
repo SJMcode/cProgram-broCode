@@ -1,0 +1,5 @@
+16:11:10 **** Clean-only build of configuration Debug for project printAllprime ****
+rm -rf printAllprime.exe src/printAllprime.d src/printAllprime.o 
+
+16:11:10 Build Finished. 0 errors, 0 warnings. (took 164ms)
+

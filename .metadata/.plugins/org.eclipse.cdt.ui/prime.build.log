@@ -1,0 +1,5 @@
+16:11:10 **** Clean-only build of configuration Debug for project prime ****
+rm -rf src/prime.d prime.exe src/prime.o 
+
+16:11:10 Build Finished. 0 errors, 0 warnings. (took 182ms)
+

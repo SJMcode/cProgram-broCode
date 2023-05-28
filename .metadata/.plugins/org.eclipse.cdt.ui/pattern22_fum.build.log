@@ -1,0 +1,7 @@
+16:01:03 **** Incremental Build of configuration Debug for project pattern22_fum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern22_fum.o" "..\\src\\pattern22_fum.c" 
+gcc -o pattern22_fum.exe "src\\pattern22_fum.o" 
+
+16:01:04 Build Finished. 0 errors, 0 warnings. (took 504ms)
+

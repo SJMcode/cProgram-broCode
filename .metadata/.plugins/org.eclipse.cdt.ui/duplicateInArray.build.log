@@ -1,0 +1,7 @@
+14:23:00 **** Rebuild of configuration Debug for project duplicateInArray ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\duplicateInArray.o" "..\\src\\duplicateInArray.c" 
+gcc -o duplicateInArray.exe "src\\duplicateInArray.o" 
+
+14:23:01 Build Finished. 0 errors, 0 warnings. (took 707ms)
+

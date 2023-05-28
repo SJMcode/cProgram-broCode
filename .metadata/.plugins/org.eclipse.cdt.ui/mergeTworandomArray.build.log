@@ -1,0 +1,5 @@
+16:11:08 **** Clean-only build of configuration Debug for project mergeTworandomArray ****
+rm -rf mergeTworandomArray.exe src/mergeTworandomArray.o src/mergeTworandomArray.d 
+
+16:11:08 Build Finished. 0 errors, 0 warnings. (took 306ms)
+

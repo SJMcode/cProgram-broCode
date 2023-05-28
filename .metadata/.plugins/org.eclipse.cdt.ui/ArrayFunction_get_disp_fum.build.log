@@ -1,0 +1,5 @@
+16:11:05 **** Clean-only build of configuration Debug for project ArrayFunction_get_disp_fum ****
+rm -rf ArrayFunction_get_disp_fum.exe src/ArrayFunction_get_disp_fum.o src/ArrayFunction_get_disp_fum.d 
+
+16:11:05 Build Finished. 0 errors, 0 warnings. (took 418ms)
+

@@ -1,0 +1,5 @@
+16:11:12 **** Clean-only build of configuration Debug for project studentMarkGrade ****
+rm -rf studentMarkGrade.exe src/studentMarkGrade.o src/studentMarkGrade.d 
+
+16:11:12 Build Finished. 0 errors, 0 warnings. (took 148ms)
+

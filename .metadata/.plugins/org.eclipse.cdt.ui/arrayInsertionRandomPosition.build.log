@@ -1,0 +1,7 @@
+13:20:13 **** Rebuild of configuration Debug for project arrayInsertionRandomPosition ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrayInsertionRandomPosition.o" "..\\src\\arrayInsertionRandomPosition.c" 
+gcc -o arrayInsertionRandomPosition.exe "src\\arrayInsertionRandomPosition.o" 
+
+13:20:14 Build Finished. 0 errors, 0 warnings. (took 415ms)
+

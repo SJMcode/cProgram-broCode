@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <lib.h>
+
+void printCrossroads(int count) {
+	char s[100];
+	printf("Enter the word: \n");
+	get(s);
+    if (count < 8) {
+        printf("%s \n", s);
+        printCrossroads(count + 1);
+    }
+}
+
+int main() {
+    printCrossroads(1);
+    return 0;
+}

@@ -1,0 +1,7 @@
+19:01:54 **** Rebuild of configuration Debug for project pattern23_fum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern23_fum.o" "..\\src\\pattern23_fum.c" 
+gcc -o pattern23_fum.exe "src\\pattern23_fum.o" 
+
+19:01:55 Build Finished. 0 errors, 0 warnings. (took 485ms)
+

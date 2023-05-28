@@ -1,0 +1,5 @@
+16:11:09 **** Clean-only build of configuration Debug for project patternQninExtraAsgnmnts ****
+rm -rf src/patternQninExtraAsgnmnts.d src/patternQninExtraAsgnmnts.o patternQninExtraAsgnmnts.exe 
+
+16:11:10 Build Finished. 0 errors, 0 warnings. (took 208ms)
+

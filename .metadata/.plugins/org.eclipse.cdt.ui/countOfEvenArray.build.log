@@ -1,0 +1,7 @@
+14:22:59 **** Rebuild of configuration Debug for project countOfEvenArray ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\countOfEvenArray.o" "..\\src\\countOfEvenArray.c" 
+gcc -o countOfEvenArray.exe "src\\countOfEvenArray.o" 
+
+14:23:00 Build Finished. 0 errors, 0 warnings. (took 587ms)
+

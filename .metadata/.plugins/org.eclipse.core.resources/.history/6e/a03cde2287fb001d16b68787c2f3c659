@@ -1,0 +1,42 @@
+/*
+ ============================================================================
+ Name        : reverseArray.c
+ Author      : safir
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+
+	int n,i, a[100],b[100];
+	setbuf(stdout, NULL);
+
+		printf("Enter limit\n");
+		scanf("%d", &n);
+
+		printf("Enter numbers\n");
+		for(i=0; i<n; i++){
+
+			scanf("%d", &a[i]);
+		}
+
+		for(int k=0; k<n; k++){
+			b[k] = a[n-1];
+			k++;
+			n--;
+		}
+		for(i=0; i<n; i++){
+
+					printf("%d "
+							, b[i]);
+				}
+
+
+	return EXIT_SUCCESS;
+}

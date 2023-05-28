@@ -1,0 +1,5 @@
+16:11:13 **** Clean-only build of configuration Debug for project totalDuplicates ****
+rm -rf src/totalDuplicates.d totalDuplicates.exe src/totalDuplicates.o 
+
+16:11:13 Build Finished. 0 errors, 0 warnings. (took 174ms)
+

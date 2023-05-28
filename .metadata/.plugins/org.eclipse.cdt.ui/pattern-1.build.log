@@ -1,0 +1,9 @@
+18:18:41 **** Rebuild of configuration Debug for project pattern-1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern-1.o" "..\\src\\pattern-1.c" 
+gcc -o pattern-1.exe "src\\pattern-1.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file pattern-1.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+18:18:41 Build Failed. 1 errors, 0 warnings. (took 626ms)
+

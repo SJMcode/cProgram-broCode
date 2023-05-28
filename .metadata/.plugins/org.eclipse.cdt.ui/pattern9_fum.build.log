@@ -1,0 +1,9 @@
+17:58:00 **** Rebuild of configuration Debug for project pattern9_fum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern9_fum.o" "..\\src\\pattern9_fum.c" 
+gcc -o pattern9_fum.exe "src\\pattern9_fum.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file pattern9_fum.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+17:58:00 Build Failed. 1 errors, 0 warnings. (took 298ms)
+

@@ -1,0 +1,7 @@
+14:23:27 **** Rebuild of configuration Debug for project pattern25_fum_assignmentQn ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern25_fum_assignmentQn.o" "..\\src\\pattern25_fum_assignmentQn.c" 
+gcc -o pattern25_fum_assignmentQn.exe "src\\pattern25_fum_assignmentQn.o" 
+
+14:23:28 Build Finished. 0 errors, 0 warnings. (took 1s.43ms)
+
